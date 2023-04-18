@@ -1,0 +1,30 @@
+img {
+  width: 500px;
+  margin-left: 100px;
+}
+
+body{
+  background-color: rgb(208, 233, 255);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(207, 0, 159);
+  font-size: 1.3rem;
+}
+
+a:hover{
+  color: brown;
+}
+
+li{
+  font-size: 1.3rem;
+}
+
+ul li{
+    list-style-type: circle;
+}
+
+p{
+  font-size: 1.5rem;
+}
